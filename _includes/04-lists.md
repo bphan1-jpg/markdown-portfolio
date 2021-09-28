@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+Favourite dishes:
+* pho :heart:
+* dandan
+* jjajangmyeon
+* rice
+* instant noodles 
